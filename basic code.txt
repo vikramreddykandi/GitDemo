@@ -1,0 +1,7 @@
+a = 6
+b=8
+c=9
+d=9
+amount1 = a+b+c
+amount2 = a+b*c
+amountc = a+c/d
